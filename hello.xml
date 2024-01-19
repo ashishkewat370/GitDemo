@@ -1,6 +1,13 @@
 <note>
+<<<<<<< HEAD
 <to>Ashish</to>
 <from>Jani</from>
 <heading>Reminder</heading>
 <body>Don't forget me this Month!</body>
+=======
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+>>>>>>> Gitwork
 </note>
